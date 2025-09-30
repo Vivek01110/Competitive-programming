@@ -1,0 +1,1 @@
+{"name":"Local: q1","url":"p:\\CODING\\CP\\CodeForces\\Contests\\Codeforces Round 1048  (Div. 2)\\q1.cpp","tests":[{"id":1757342462066,"input":"3\n1 2\n10 3\n1000 1000\n","output":"1\n2\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\CODING\\CP\\CodeForces\\Contests\\Codeforces Round 1048  (Div. 2)\\q1.cpp","group":"local","local":true}
