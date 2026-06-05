@@ -1,0 +1,1 @@
+{"name":"Local: count_Minium","url":"p:\\CODING\\CP\\CSES\\SegmentTree\\count_Minium.cpp","tests":[{"id":1780039227401,"input":"5 5\n3 4 3 5 2\n2 0 3\n1 1 2\n2 0 3\n1 0 2\n2 0 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\CODING\\CP\\CSES\\SegmentTree\\count_Minium.cpp","group":"local","local":true}

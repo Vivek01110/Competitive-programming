@@ -1,0 +1,1 @@
+{"name":"Local: lebrinth","url":"p:\\CODING\\CP\\CSES\\Graph2\\lebrinth.cpp","tests":[{"id":1778736580372,"input":"5 8\n########\n#.A#...#\n#.##.#B#\n#......#\n########","output":"YES\n9\nLDDRRRRRU"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\CODING\\CP\\CSES\\Graph2\\lebrinth.cpp","group":"local","local":true}

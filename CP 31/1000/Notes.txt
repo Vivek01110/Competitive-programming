@@ -1,0 +1,5 @@
+1. ceil function  for a/b = (a + b - 1)/b
+
+2. super fair number would be Lcm(1...9) = 2520
+
+3. TRY TO FIND OBSERVATION WITH ANY INEQUALITY IF ANY

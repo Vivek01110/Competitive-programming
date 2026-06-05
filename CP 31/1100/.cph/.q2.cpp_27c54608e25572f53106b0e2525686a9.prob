@@ -1,0 +1,1 @@
+{"name":"Local: q2","url":"p:\\CODING\\CP\\CP 31\\1100\\q2.cpp","tests":[{"id":1770466200235,"input":"30 4\n","output":"3\n"},{"id":1770466210966,"input":"2026 10\n","output":""},{"id":1770466217379,"input":"99999 45\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\CODING\\CP\\CP 31\\1100\\q2.cpp","group":"local","local":true}

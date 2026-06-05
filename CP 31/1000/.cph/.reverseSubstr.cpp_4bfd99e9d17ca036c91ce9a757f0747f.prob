@@ -1,0 +1,1 @@
+{"name":"Local: reverseSubstr","url":"p:\\CODING\\CP\\CP 31\\1000\\reverseSubstr.cpp","tests":[{"id":1769854606635,"input":"7\nabacaba\n","output":""},{"id":1769854615866,"input":"6\naabcfg\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\CODING\\CP\\CP 31\\1000\\reverseSubstr.cpp","group":"local","local":true}

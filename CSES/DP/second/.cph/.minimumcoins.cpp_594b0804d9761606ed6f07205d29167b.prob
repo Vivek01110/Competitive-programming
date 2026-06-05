@@ -1,0 +1,1 @@
+{"name":"Local: minimumcoins","url":"p:\\CODING\\CP\\CSES\\DP\\second\\minimumcoins.cpp","tests":[{"id":1772549712763,"input":"3 11\n1 5 7","output":"3\n"},{"id":1772550055104,"input":"3 3\n2 5 7","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\CODING\\CP\\CSES\\DP\\second\\minimumcoins.cpp","group":"local","local":true}

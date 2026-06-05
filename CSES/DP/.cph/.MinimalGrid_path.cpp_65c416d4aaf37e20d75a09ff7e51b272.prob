@@ -1,0 +1,1 @@
+{"name":"Local: MinimalGrid_path","url":"p:\\CODING\\CP\\CSES\\DP\\MinimalGrid_path.cpp","tests":[{"id":1778469846021,"input":"4\nAACA\nBABC\nABDA\nAACA\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\CODING\\CP\\CSES\\DP\\MinimalGrid_path.cpp","group":"local","local":true}
